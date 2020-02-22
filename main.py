@@ -1,12 +1,10 @@
 
 #!user/bin/python3
 print("Hi All")
-//changes
+#changes
 
 print("hello world")
 
 
 print ("123")
 
-
-//chang
